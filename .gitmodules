@@ -1,0 +1,3 @@
+[submodule "code_samples/chapter-6/keras-yolo3"]
+	path = code_samples/chapter-6/keras-yolo3
+	url = git@github.com:qqwweee/keras-yolo3.git
