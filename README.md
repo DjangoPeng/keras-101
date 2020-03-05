@@ -1,2 +1,3 @@
 # python-deep-learning
-Code samples of Python Deep Learning in CSDN
+[《Python深度学习》](https://edu.csdn.net/course/detail/26109) 样例代码、PPT 与参考论文
+
