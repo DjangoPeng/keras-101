@@ -1,3 +1,6 @@
 [submodule "code_samples/chapter-6/keras-yolo3"]
 	path = code_samples/chapter-6/keras-yolo3
 	url = git@github.com:qqwweee/keras-yolo3.git
+[submodule "code_samples/chapter-7/examples"]
+	path = code_samples/chapter-7/examples
+	url = git@github.com:tensorflow/examples.git
