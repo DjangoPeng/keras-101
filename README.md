@@ -20,7 +20,7 @@
 
 ## 课程订阅
 
-![course](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras-101/qrcode.png)
+![course](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras-101/course.png)
 
 
 ## 技术交流群
