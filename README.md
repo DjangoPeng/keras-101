@@ -18,8 +18,12 @@
 
 # [快速入门 Keras 深度学习](https://edu.csdn.net/course/detail/26109)
 
+## 课程订阅
 
-## 交流讨论群
+![](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras-101/qrcode.png)
+
+
+## 技术交流群
 
 ![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
 
