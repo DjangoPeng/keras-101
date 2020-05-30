@@ -2,8 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Keras 快速入门与实战](#%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-keras-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
-  - [交流讨论群](#%E4%BA%A4%E6%B5%81%E8%AE%A8%E8%AE%BA%E7%BE%A4)
+- [Keras 快速入门与实战](#keras-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98)
+  - [课程订阅](#%E8%AF%BE%E7%A8%8B%E8%AE%A2%E9%98%85)
+  - [技术交流群](#%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4)
+  - [知识脑图](#%E7%9F%A5%E8%AF%86%E8%84%91%E5%9B%BE)
   - [课程列表](#%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8)
     - [深度学习基础篇：神经网络基本概念与发展](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%AF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%8F%91%E5%B1%95)
     - [深度学习入门篇：动手实现神经网络](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E7%AF%87%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
@@ -12,7 +14,6 @@
     - [深度学习实战篇：可视化深度学习的应用](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87%E5%8F%AF%E8%A7%86%E5%8C%96%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BA%94%E7%94%A8)
     - [深度学习实战篇：目标检测模型与应用](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%94%E7%94%A8)
     - [深度学习实战篇：物品分类模型与应用](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AF%87%E7%89%A9%E5%93%81%E5%88%86%E7%B1%BB%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%94%E7%94%A8)
-  - [知识脑图](#%E7%9F%A5%E8%AF%86%E8%84%91%E5%9B%BE)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
