@@ -20,7 +20,7 @@
 
 ## 课程订阅
 
-![course](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras_101_course.png)
+![keras_101_course](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras_101_course.png)
 
 
 ## 技术交流群
@@ -99,5 +99,5 @@
 
 ## 知识脑图
 
-![学习路线](learning_graph.png)
+![学习路线](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras_101_learning_graph.png)
 
