@@ -27,6 +27,10 @@
 
 ![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
 
+## 知识脑图
+
+![学习路线](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras_101_learning_graph.png)
+
 ## 课程列表
 
 ### 深度学习基础篇：神经网络基本概念与发展
@@ -96,8 +100,3 @@
 - 深度学习实战：实战 TensorFlow Lite 模型格式转换
 - 深度学习实战：搭建 TensorFlow Lite 模型运行环境
 - 深度学习实战：实现手机上的实时物品分类应用
-
-## 知识脑图
-
-![学习路线](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/keras_101_learning_graph.png)
-
